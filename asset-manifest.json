@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/ProvaBCC2BimestreLP2/static/css/main.d221dc40.css",
+    "main.js": "/ProvaBCC2BimestreLP2/static/js/main.db3fd9b5.js",
+    "static/media/pagina404.png": "/ProvaBCC2BimestreLP2/static/media/pagina404.4bf0805d8d55a31c5142.png",
+    "index.html": "/ProvaBCC2BimestreLP2/index.html",
+    "main.d221dc40.css.map": "/ProvaBCC2BimestreLP2/static/css/main.d221dc40.css.map",
+    "main.db3fd9b5.js.map": "/ProvaBCC2BimestreLP2/static/js/main.db3fd9b5.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d221dc40.css",
+    "static/js/main.db3fd9b5.js"
+  ]
+}
